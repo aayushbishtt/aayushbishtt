@@ -1,13 +1,12 @@
 <h1 align="center"> 👋 I'm Aayush </h1>
 
 ###
-- 💼 **Applied AI Engineer** — GenAI, Agentic Systems, RAG & Machine Learning
-- 🏢 **AI Engineer** @ Amadeus, Sophia Antipolis 🇫🇷 — built a multi-agent repo-to-documentation system that cut cost per repository from **$8 to $2**.
+- 🏢 **AI Engineer** @ Amadeus, Sophia Antipolis 🇫🇷: built a multi-agent repo-to-documentation system that cut cost per repository from **$8 to $2**.
 - 🎓 **MSc in Artificial Intelligence** @ CentraleSupélec, Université Paris-Saclay 🇫🇷 (+ **MVA @ ENS**: RL, Graphs in ML, Advanced Deep Learning)
 - 🔭 My interests include **Agentic Systems & LLM Orchestration**, **RAG**, and **Causal Discovery in Time Series**.
-- 🏆 **2nd place, Hack'In Saclay (IP Paris)** — real-time lab monitoring dashboard with a RAG assistant over SOPs.
-- 🛡️ Previously **Cybersecurity Analyst (OSINT)** and **Data Analyst** — automated pipelines and threat-triage tooling.
-- 📍 Based in Paris, France 🇫🇷 — open to permanent **AI/ML Engineer** and **MLOps** roles.
+- 🏆 **2nd place, Hack'In Saclay (IP Paris)**: real-time lab monitoring dashboard with a RAG assistant over SOPs.
+- 🛡️ Previously worked as **Cybersecurity Analyst (OSINT)** and **Data Analyst**: automated pipelines and threat-triage tooling.
+- 📍 Based in Paris, France 🇫🇷: open to permanent **AI/ML Engineer** and **MLOps** roles.
 
 ## 💻 Tech Stack
 
