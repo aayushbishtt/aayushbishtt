@@ -29,14 +29,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aayushbishtt&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aayushbishtt&theme=solarized-dark&hide_border=false" width="51.57%" />
-</p>
-
 ## 🎓 Certifications
 
 - **Azure MLOps Engineer (AI-300)** - Microsoft
